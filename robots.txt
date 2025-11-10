@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://thonnh.github.io/""/sitemap.xml
+Sitemap: https://thonnh.github.io/sitemap.xml
